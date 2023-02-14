@@ -9,7 +9,7 @@ const db = mysql.createConnection(
         password: process.env.DB_PASSWORD,
         database: 'employeeTracker_db'
     },
-    console.log("Connected to the employeeTracker_db database!")
+    console.log("\nConnected to the employeeTracker_db database!")
 );
 
 module.exports = db;

@@ -34,9 +34,9 @@ inquirer
 
 
 ##
-View All Departments
-View All Roles
-View All Employees
+View All Departments ✓
+View All Roles ✓
+View All Employees ✓
 Add a Department
 Add a Role
 Add an Employee
