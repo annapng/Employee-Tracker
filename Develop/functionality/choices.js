@@ -40,7 +40,7 @@ function mainChoices() {
             add.addDept();  }
         
         if (answers.choices === 'Add a Role') {
-            add.addDept();  }
+            add.addRole();  }
 
         if (answers.choices === 'Add an Employee') {
             add.addEmp();  }
