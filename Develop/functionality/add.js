@@ -183,7 +183,7 @@ async function addEmp() {
 
         {   type: 'list',
             name: 'manager',
-            message: "Which manager will they be starting on?",
+            message: "Which manager will they be starting under?",
             choices: newManageArray    
         }])
         .then((answers) => {
