@@ -44,4 +44,4 @@ This application includes the following Node packages:
 ## Links
 
 - GitHub Repo: https://github.com/annapng/Employee-Tracker
-- Example video: 
+- Example video: https://www.youtube.com/watch?v=gSCds5DPIbs
